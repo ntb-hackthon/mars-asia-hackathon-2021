@@ -6,7 +6,11 @@
 * github: <https://github.com/NftTopBest>
 * email: nfttop.best@gmail.com
 
-## [Video](./demo.mov)
+## Video Demo
+
+* [demo for setup pinata key](./demo.mov)
+* [demo for mint nft in discord channel](./demo-2.mov)
+* demo for get huddle01 video chat for every discord channel (TBD)
 
 ## What is it?
 
