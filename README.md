@@ -45,7 +45,7 @@ chat with owner.
 <https://github.com/ntb-hackthon/mars-asia-hackathon-2021>
 
 As the bot maybe develop as a SaaS later then so for now we do not public all the discord bot
-code, we just share the code for the [pinata](./pinata.js)
+code, we just share the code for the [pinata](./pinata.js) and [polygonMint](./polytonMint.js)
 
 ## Online Demo
 
