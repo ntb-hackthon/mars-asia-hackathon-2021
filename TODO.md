@@ -1,0 +1,5 @@
+# TODO
+
+* [ ] Add demo video
+* [ ] Add polygon mint NFT function
+* [ ] Add huddle01 video chat for every new created channel automaticly
