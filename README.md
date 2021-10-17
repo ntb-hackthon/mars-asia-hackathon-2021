@@ -19,7 +19,8 @@ chat with owner.
 
 1. It use the Pinata service to upload file to IPFS.
 2. It use the discord's `splash` command feature that user can submit their pinata private key in the discord channle without public.
-3. Guild owner can turn the huddle01 video chat that provide every new created channel to have the video chat function to their user automaticly.
+3. user can use `~upload [fileName]` to upload file to IPFS
+4. Guild owner can turn the huddle01 video chat that provide every new created channel to have the video chat function to their user automaticly.
 
 ## Features
 
