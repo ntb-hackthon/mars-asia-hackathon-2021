@@ -36,14 +36,14 @@ chat with owner.
 2. setup it's private key for the bot to mint NFT for the guild member(with specific role)
 3. setup user to specific role to have mint NFT feature
 
-## code link
+## Code Link
 
 <https://github.com/ntb-hackthon/mars-asia-hackathon-2021>
 
 As the bot maybe develop as a SaaS later then so for now we do not public all the discord bot
 code, we just share the code for the [pinata](./pinata.js)
 
-## online Demo
+## Online Demo
 
 Your can try it by two methods.
 
