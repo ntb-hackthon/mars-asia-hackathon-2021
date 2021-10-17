@@ -10,7 +10,7 @@
 
 ### What is it?
 
-It's a `discord NFT minter`, that discord guide owner can setup it to mint new NFT through the Channel
+It's a `discord NFT minter`, that discord Guild owner can setup it to mint new NFT through the Channel
 
 For the special NFT, NFT seller can setup a huddle01 video chat meeting for it, user can join the video chatting room to have video
 chat with owner.
@@ -19,4 +19,18 @@ chat with owner.
 
 1. It use the Pinata service to upload file to IPFS.
 2. It use the discord's `splash` command feature that user can submit their pinata private key in the discord channle without public.
-3. Guide owner can turn the huddle01 video chat that provide every new created channel to have the video chat function to their user automaticly.
+3. Guild owner can turn the huddle01 video chat that provide every new created channel to have the video chat function to their user automaticly.
+
+### Features
+
+*Guild member*
+
+1. setup pinata private key by `/pinata` splash cmd
+2. get pinata config by `/pinata-config` splash cmd
+3. upload file to IPFS in discrod
+
+*Guild Admin*
+
+1. setup huddle01 video chat for each channel
+2. setup it's private key for the bot to mint NFT for the guild member(with specific role)
+3. setup user to specific role to have mint NFT feature
